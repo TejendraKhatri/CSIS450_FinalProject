@@ -1,7 +1,5 @@
 //Author : Tejendra Khatri
 //Date : 5/15/2019
-//Class : CSIS 450
-//Instructor : Dr.Lee
 //Final Project
 //Description : This program works as a Lexical Analyzer.
 
